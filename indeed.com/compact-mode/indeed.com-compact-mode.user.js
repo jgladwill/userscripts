@@ -11,14 +11,13 @@
 // @supportURL		https://github.com/jgladwill/userscripts/issues/
 // @match			http*://*.indeed.*/*
 // @grant			GM_addStyle
-// @grant			GM.addStyle
 // @run-at			document-end
 // ==/UserScript==
 
 (() => {
 	"use strict";
 
-	GM.addStyle(`
+	GM_addStyle(`
 		* {outline: 0 !important;}
 		@media (min-width: 769px) {
 			#gnav-main-container [class*=gnav-header-] {
