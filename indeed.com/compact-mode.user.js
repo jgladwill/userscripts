@@ -2,7 +2,6 @@
 // @name			Indeed.com Compact-Mode
 // @version			1.0.2
 // @description		Provides a more productive browsing experience on indeed.com by enabling a full-width layout and compacting most UI elements on screens wider than 768 pixels. CSS Only, Grants GM_addStyle.
-// @icon			https://github.com/jgladwill/userscripts/raw/main/indeed.com/indeed.com-compact-mode.icon.svg
 // @license			MIT; https://opensource.org/licenses/MIT
 // @author			jgladwill
 // @namespace		https://github.com/jgladwill/userscripts/
@@ -12,14 +11,13 @@
 // @supportURL		https://github.com/jgladwill/userscripts/issues/
 // @match			http*://*.indeed.*/*
 // @grant			GM_addStyle
-// @grant			GM.addStyle
 // @run-at			document-end
 // ==/UserScript==
 
 (() => {
 	"use strict";
 
-	GM.addStyle(`
+	GM_addStyle(`
 		* {outline: 0 !important;}
 		@media (min-width: 769px) {
 			#gnav-main-container [class*=gnav-header-] {
