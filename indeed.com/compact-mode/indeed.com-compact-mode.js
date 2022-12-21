@@ -8,8 +8,8 @@
 // @author			jgladwill
 // @namespace		https://github.com/jgladwill/userscripts/
 // @homepageURL		https://github.com/jgladwill/userscripts/
-// @downloadURL		https://github.com/jgladwill/userscripts/indeed.com/compact-mode/user.js
-// @updateURL		https://github.com/jgladwill/userscripts/indeed.com/compact-mode/user.js
+// @downloadURL		https://github.com/jgladwill/userscripts/indeed.com/compact-mode/indeed.com-compact-mode.js
+// @updateURL		https://github.com/jgladwill/userscripts/indeed.com/compact-mode/indeed.com-compact-mode.js
 // @supportURL		https://github.com/jgladwill/userscripts/issues/
 // @match			http*://*.indeed.*/*
 // @grant			GM_addStyle
