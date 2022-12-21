@@ -1,15 +1,14 @@
 // ==UserScript==
 // @name			Indeed.com Compact-Mode
 // @version			1.0.2
-// @description		Provides a more productive browsing experience by enabling full-width layout and compacting most UI elements. CSS Only, Grants GM_addStyle.
-// @icon			https://github.com/jgladwill/userscripts/main/indeed.com/compact-mode/icon32.png
-// @icon64			https://github.com/jgladwill/userscripts/main/indeed.com/compact-mode/icon32.png
-// @license			MIT; https://mit-license.org/
+// @description		Provides a more productive browsing experience on indeed.com by enabling a full-width layout and compacting most UI elements on screens wider than 768 pixels. CSS Only, Grants GM_addStyle.
+// @icon			https://github.com/jgladwill/userscripts/raw/main/indeed.com/indeed.com-compact-mode.icon.svg
+// @license			MIT; https://opensource.org/licenses/MIT
 // @author			jgladwill
 // @namespace		https://github.com/jgladwill/userscripts/
 // @homepageURL		https://github.com/jgladwill/userscripts/
-// @downloadURL		https://github.com/jgladwill/userscripts/indeed.com/compact-mode/indeed.com-compact-mode.js
-// @updateURL		https://github.com/jgladwill/userscripts/indeed.com/compact-mode/indeed.com-compact-mode.js
+// @downloadURL		https://github.com/jgladwill/userscripts/indeed.com/indeed.com-compact-mode.user.js
+// @updateURL		https://github.com/jgladwill/userscripts/indeed.com/indeed.com-compact-mode.user.js
 // @supportURL		https://github.com/jgladwill/userscripts/issues/
 // @match			http*://*.indeed.*/*
 // @grant			GM_addStyle
