@@ -4,8 +4,6 @@ A collection of my personal userscripts.
 
 ## Getting Started
 
----
-
 ### 1. Install Tampermonkey or Violentmonkey
 
 #### [Tampermonkey](https://www.tampermonkey.net/)
@@ -22,8 +20,6 @@ A collection of my personal userscripts.
 - [Firefox](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 - [Maxthon](http://extension.maxthon.com/detail/index.php?view_id=1680)
-
----
 
 ### 2. Install Scripts
 
