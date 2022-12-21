@@ -2,7 +2,7 @@
 // @name			Indeed.com Compact-Mode
 // @version			1.0.2
 // @description		Provides a more productive browsing experience by enabling full-width layout and compacting most UI elements. CSS Only, Grants GM_addStyle.
-// @icon			https://github.com/jgladwill/userscripts/raw/main/indeed.com/compact-mode/icon48.png
+// @icon			https://github.com/jgladwill/userscripts/raw/main/indeed.com/compact-mode/icon.svg
 // @license			MIT; https://mit-license.org/
 // @author			jgladwill
 // @namespace		https://github.com/jgladwill/userscripts/
