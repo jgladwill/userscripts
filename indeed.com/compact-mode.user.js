@@ -3,7 +3,7 @@
 // @description Provides a more productive browsing experience on indeed.com by enabling a full-width layout and compacting most UI elements on screens wider than 768 pixels. CSS Only, Grants GM_addStyle.
 // @iconURL     https://raw.githubusercontent.com/jgladwill/userscripts/main/indeed.com/compact-mode.icon32.png
 // @icon64URL   https://raw.githubusercontent.com/jgladwill/userscripts/main/indeed.com/compact-mode.icon64.png
-// @version     1.0.6
+// @version     1.0.7
 // @license     MIT; https://opensource.org/licenses/MIT
 // @author      jgladwill
 // @namespace   https://github.com/jgladwill/userscripts/indeed.com/
@@ -11,25 +11,7 @@
 // @downloadURL https://github.com/jgladwill/userscripts/indeed.com/raw/main/compact-mode.user.js
 // @updateURL   https://github.com/jgladwill/userscripts/indeed.com/raw/main/compact-mode.user.js
 // @supportURL  https://github.com/jgladwill/userscripts/issues/
-// @match       http://*.indeed.com/*
-// @match       http://www.indeed.co.uk/*
-// @match       http://www.indeed.co.in/*
-// @match       http://www.indeed.com.pe/*
-// @match       http://www.indeed.tld/*
-// @match       http://www.indeed.com.sg/*
-// @match       http://www.indeed.co.il/*
-// @match       http://www.indeed.co.at/*
-// @match       http://www.indeed.com.tr/*
-// @match       http://www.indeed.com.ua/*
-// @match       https://www.indeed.tld/*
-// @match       https://www.indeed.co.uk/*
-// @match       https://www.indeed.co.in/*
-// @match       https://www.indeed.com.pe/*
-// @match       https://www.indeed.com.sg/*
-// @match       https://www.indeed.co.il/*
-// @match       https://www.indeed.co.at/*
-// @match       https://www.indeed.com.tr/*
-// @match       https://www.indeed.com.ua/*
+// @match       *://*.indeed.com/*
 // @grant       GM_addStyle
 // @run-at      document-end
 // ==/UserScript==
